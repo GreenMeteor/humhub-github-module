@@ -10,7 +10,7 @@ use humhub\models\Setting;
   </div>
   <div class="panel-body">
 
-    <div class="github-widget" data-username="Felli"></div>
+      <div class="github-widget" data-username="YOUR-USERNAME"></div>
     <script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
 
 </div>

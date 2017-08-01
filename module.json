@@ -1,0 +1,10 @@
+{
+    "id": "github",
+    "name": "GitHub",
+    "description": "Adds a GitHub widget to HumHub`s sidebar.",
+    "keywords": ["github", "widget"],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    }
+}

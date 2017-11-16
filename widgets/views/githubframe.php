@@ -4,7 +4,8 @@ use yii\helpers\Url;
 use humhub\models\Setting;
 
 ?>
-<div class="panel">
+<div class="panel panel-default panel-discordapp" id="panel-github">
+    <?= \humhub\widgets\PanelMenu::widget(['id' => 'panel-github']); ?>
   <div class="panel-heading">
     <?=Yii::t('GithubModule.base', '<strong>GitHub</strong>'); ?>
   </div>

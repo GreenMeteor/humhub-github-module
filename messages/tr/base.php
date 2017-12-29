@@ -1,8 +1,8 @@
 <?php
 
 return [
-    '<strong>GitHub</strong>' => '',
-    'GitHub Settings' => '',
-    'sort' => '',
-    'save' => '',
+    '<strong>GitHub</strong>' => '<strong>GitHub</strong>',
+    'GitHub Settings' => 'GitHub Ayarlar',
+    'sort' => 'Tip',
+    'save' => 'Kaydet',
 ];

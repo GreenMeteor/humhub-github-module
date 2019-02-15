@@ -13,7 +13,7 @@ class Assets extends AssetBundle
 
     public function init()
     {
-        $this->sourcePath = dirname(__FILE__) . '/assets';
+        $this->sourcePath = dirname(__FILE__) . '/resources';
         parent::init();
     }
 }

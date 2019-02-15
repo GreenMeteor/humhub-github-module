@@ -11,7 +11,7 @@ use humhub\models\Setting;
   </div>
   <div class="panel-body">
 
-<div class="github-card" data-github="felli" data-width="100%" data-height="100%" data-theme="default"></div>
+<div class="github-card" data-github="YOUR-USERNAME" data-width="100%" data-height="100%" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 </div>

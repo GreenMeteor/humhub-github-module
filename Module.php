@@ -2,7 +2,19 @@
 
 namespace humhub\modules\github;
 
-class Module extends \humhub\modules\content\components\ContentContainerModule
+class Module extends \humhub\components\Module
 {
+
+    public $resourcesPath = 'resources';
+
+    /**
+     * @inheritdoc
+     */
+    public function getConfigUrl()
+    {
+        return Url::to([
+                    '/github/admin'
+        ]);
+    }
 
 }
